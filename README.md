@@ -1,1 +1,2 @@
 # meteorite_landing
+Explores patterns in meteorite landings using a dataset from NASA's Open Data PortalThe analysis includes computing probabilities of meteorite sightings, conducting hypothesis tests to determine if meteorite landings are randomly distributed, and comparing distributions across continents using Total Variation Distance (TVD), and explores trends in the median meteorite mass over time to assess any significant changes.</p>
